@@ -1,0 +1,10 @@
+E:\Development\C#\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Development\C#\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Development\C#\repos\Library\Library\bin\Debug\LibraryApp.exe.config
+E:\Development\C#\repos\Library\Library\bin\Debug\LibraryApp.exe
+E:\Development\C#\repos\Library\Library\bin\Debug\LibraryApp.pdb
+E:\Development\C#\repos\Library\Library\obj\Debug\LibraryApp.exe
+E:\Development\C#\repos\Library\Library\obj\Debug\LibraryApp.pdb
+E:\Development\C#\repos\Library\Library\bin\Debug\Newtonsoft.Json.dll
+E:\Development\C#\repos\Library\Library\bin\Debug\Newtonsoft.Json.xml
+E:\Development\C#\repos\Library\Library\obj\Debug\Library.csproj.CopyComplete
