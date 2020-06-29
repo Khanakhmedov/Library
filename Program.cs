@@ -16,7 +16,6 @@ namespace Library
             Console.OutputEncoding = Encoding.UTF8;
             IDataBase data = new DataBase();
             Manager manager = new Manager(data);
-            DataBase dataBase = new DataBase();
             manager.Start();
         }
     }
